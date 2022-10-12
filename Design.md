@@ -36,8 +36,9 @@ The key primary button on the page might also lead to users having mislead inter
 The button also being the only highlighted button seems to encourage an action which doesn’t aid the core functionality of the screen
 -----Main Goal -- Improved UX
 
-## Name: Nnadiukwu Chidiebere Oscar 
+## Name: Nnadiukwu Chidiebere Oscar , Nora , John 
 
-## Description:
+## Description: Admin dashboard
 ### Observations/Changes 
+- designed the admin dashboard 
 -----Main Goal --
